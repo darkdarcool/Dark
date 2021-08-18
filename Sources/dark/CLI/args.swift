@@ -1,10 +1,3 @@
-//
-//  File.swift
-//  
-//
-//  Created by Sridhar Reddy on 8/18/21.
-//
-
 import Foundation
 
 class args {
