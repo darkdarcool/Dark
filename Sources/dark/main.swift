@@ -34,6 +34,6 @@ if (parsed.isHelp()) {
   print(helpText)
   exit(0)
 }
-print("\(parsed.hasTasks())")
+// print("\(parsed.hasTasks())")
 
-
+print("\(parsed.hasRun())")
