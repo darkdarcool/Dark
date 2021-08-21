@@ -6,5 +6,4 @@ class args {
         givenArgs.remove(at: 0);
         return givenArgs
     }
-    
 }
